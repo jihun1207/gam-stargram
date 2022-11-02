@@ -11,3 +11,11 @@
   - semantic-UI를 통해 전반적인 마크업을 렌더링하고 styled-component 로 세세한 조정을 하였음.
   - 백엔드의 경우 TypeORM 의 orm 맵핑 을 이용해 기본적인 CRUD 의 쿼리를 직접 생성하지 않고 자동적으로 쿼리를 생성해 데이터 조작을 제어하였음.
   - node-module 폴더가 생성되고 패키지를 탐색하는 기존 방식에서 벗어나 PnP 방식의 yarn berry로 빌드하여 보다 빠른 빌드를 가능하게 하였음.
+
+<img width="987" alt="image" src="https://user-images.githubusercontent.com/79236217/199413619-374a6cf7-b48b-41b2-bb80-b19458c44727.png">
+
+
+<img width="1034" alt="image" src="https://user-images.githubusercontent.com/79236217/199413421-4681be98-1252-48f2-83f2-24e5d0f05326.png">
+<img width="976" alt="image" src="https://user-images.githubusercontent.com/79236217/199413499-c5af528e-a3e2-49dc-9e66-2f6fa57fc758.png">
+<img width="1002" alt="image" src="https://user-images.githubusercontent.com/79236217/199413579-ebfbb033-6ede-4627-a7cd-a41c711006fe.png">
+
